@@ -103,7 +103,8 @@ else
 getch(); 
 closegraph(); 
 return 0; 
-
+Devoloped by:Pharsheen Rahuman M
+Register no:212224230193
 ~~~
 
 **Output :**
@@ -113,4 +114,4 @@ return 0;
 
 
 **Result :**
-
+The implememtation of Bresenham‘s Line Drawing Algorithm has been successful 
